@@ -1,0 +1,16 @@
+{
+  "name": "midi-test",
+  "version": "0.0.0",
+  "description": "testing midi music generator",
+  "main": "index.js",
+  "dependencies": {
+    "jsmidgen": "^0.1.2",
+    "shelljs": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
